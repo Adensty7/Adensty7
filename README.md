@@ -27,10 +27,7 @@ Here are some ideas to get you started:
 
 <h2> GitHub Stats </h2> 
 
-<center>
-
 [![Aharnish's github stats](https://github-readme-stats.vercel.app/api?username=Adensty7)](https://github.com/Adensty7)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adensty7&layout=compact)](https://github.com/Adensty7)
 
-</center>
