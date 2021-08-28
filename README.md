@@ -1,4 +1,4 @@
-<h1 align="center"> there 👋, I'm Aharnish KS </h1>
+<h1 align="center">Hi there, I'm Aharnish KS </h1>
 
 
 
@@ -16,7 +16,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### - 🔭 I’m currently working on KitchenCosmos
 
-### 🌱 I’m currently learning React, Python, Django, Data Structures and Algorithms
+<ul> 
+<li> I’m currently working on Kitchendotcom </li>  
+<li> I’m currently learning React, Python, Django, Data Structures and Algorithms <li>
+<li> How to reach me: aharnishks@gmail.com <li>
+</ul>
 
+<h2> Skills and Languages </h2>
+
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
