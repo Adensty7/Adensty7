@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 <ul> 
 <li> I’m currently working on Kitchendotcom </li>  
-<li> I’m currently learning React, Python, Django, Data Structures and Algorithms <li>
-<li> How to reach me: aharnishks@gmail.com <li>
+<li> I’m currently learning React, Python, Django, Data Structures and Algorithms </li>
+<li> How to reach me: aharnishks@gmail.com </li>
 </ul>
 
 <h2> Skills and Languages </h2>
