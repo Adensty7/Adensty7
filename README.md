@@ -1,6 +1,4 @@
-### Hi there 👋, I'm Aharnish KS 
-
-<h2 align="center"> I'm Full Stack Web Developer
+<h1 align="center"> there 👋, I'm Aharnish KS </h1>
 
 
 
