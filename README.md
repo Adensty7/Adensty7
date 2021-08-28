@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm Aharnish KS 
+
+<h2 align="center"> I'm Full Stack Web Developer
+
+
 
 <!--
 **Adensty7/Adensty7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### - 🔭 I’m currently working on KitchenCosmos
+
+### 🌱 I’m currently learning React, Python, Django, Data Structures and Algorithms
+
