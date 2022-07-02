@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Kitchendotcom](https://github.com/Adensty7/Kitchendotcom)
 
-- 🌱 I’m currently learning **React, Python, Django, Data Structures and Algorithms, etc.**
+- 🌱 I’m currently learning **React, Python, Data Structures and Algorithms, etc.**
 
 - 📫 How to reach me **aharnishks@gmail.com**
 
